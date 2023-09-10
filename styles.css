@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+h1, h2 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 31px;
+    top: 5%;
+}
+
+h2 {
+    top: 20%;
+}
+
+.adm h3 {
+    font-size: 18px;
+    text-align: center;
+    height: 200px;
+    border: 1px solid black;
+
+}
+
+.adm a {
+    text-decoration: none;
+    color: black;
+    
+    
+}
+
+.admLibros {
+    position: absolute;
+    left: 30%;
+    top: 30%;
+    transform: translateX(-50%);
+    width: 240px;
+}
+
+.admComp {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translateX(-50%);
+    width: 240px;
+}
+
+.admOtros {
+    position: absolute;
+    left: 70%;
+    top: 30%;
+    transform: translateX(-50%);
+    width: 240px;
+}
+
+.admLibros img {
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+    width: 150px;
+}
+
+.admComp img {
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    transform: translateX(-50%);
+    width: 150px;
+}
+
+
+.admOtros img {
+    position: absolute;
+    left: 53%;
+    top: 18%;
+    transform: translateX(-50%);
+    width: 150px;
+}
+
+
+
+  
+
+
+
+

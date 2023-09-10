@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+table {
+    max-width: 425px;
+    font-size: 11.5px;
+}
+}
+
+th {
+position: sticky;
+}
+
+.table-wrapper {
+max-height: 600px;
+overflow-y: scroll;
+}
+
+
+#inputnombrelibro,
+#inputautor,
+#inputexistencias {
+  max-width: 85%;
+  text-align: center;
+}
